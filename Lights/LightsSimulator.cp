@@ -1,4 +1,4 @@
-#line 1 "C:/Users/User/Projects/Micro/LightsSimulator.c"
+#line 1 "C:/Users/User/Projects/Micro/Lights/LightsSimulator.c"
 void main(){
 
  do{
